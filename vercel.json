@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://uxconsultant.be/$1",
+      "permanent": true
+    }
+  ]
+}
